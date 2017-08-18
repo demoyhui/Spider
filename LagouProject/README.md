@@ -10,3 +10,7 @@
 3、LagouProject是使用scrapy进行爬虫的文件夹，里面包含爬虫逻辑和以及setting、pipeline、item文件的配置
 
 
+4、begin文件是启动文件，大家需要在自己的pycharm配置一下启动文件，方便快速启动，
+
+
+
