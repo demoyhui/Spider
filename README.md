@@ -13,4 +13,4 @@ Spider项目将会不断更新本人学习使用过的爬虫方法！！！
 3、CheckCaptha中利用CNN进行验证码识别，准备率可以达到98%，注释也非常详细。这个验证码识别算法仅仅是利用卷积神经算法对数字加大小写字母进行预测，不具有普遍性，可以当做学习CNN和TensorFlow的简单例子  环境语言 ubuntu python2.7  
 
 
-4、LagouProject 这个项目是本人爬虫拉钩网职位信息写的一个爬虫程序，这个项目设置到的技术要素比较多，有cookie、多线程、IP代理以及使用scrapy都有涉及，是一个很好学习爬虫的程序，在这个不便做详细描述，可以参考本人博客地址:http://blog.csdn.net/demohui/article/details/77370313，
+4、LagouProject 这个项目是本人爬虫拉钩网职位信息写的一个爬虫程序，这个项目设置到的技术要素比较多，有cookie、多线程、IP代理以及使用scrapy都有涉及，是一个很好学习爬虫的程序，在这个不便做详细描述，可以参考本人博客地址:http://blog.csdn.net/demohui/article/details/77370313
